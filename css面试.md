@@ -15,3 +15,23 @@ p {line-height: 150%;}
 
 百分比：将计算后的值传给后代
 
+## 2.一个div块，设置其为两个效果，一个为渐隐效果，一个为点击空白处显示和隐藏。
+
+
+
+## 3.css盒子模型，从外到内的属性
+
+<img src="C:\Users\95191\AppData\Roaming\Typora\typora-user-images\image-20210302213214023.png" alt="image-20210302213214023" style="zoom:50%;" />
+
+```css
+box-sizing: content-box|border-box|inherit;
+```
+
+<img src="C:\Users\95191\AppData\Roaming\Typora\typora-user-images\image-20210302213605284.png" alt="image-20210302213605284" style="zoom: 67%;" />
+
+## 4.css选择器优先级
+
+
+
+## 5.
+
